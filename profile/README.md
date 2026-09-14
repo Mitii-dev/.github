@@ -1,11 +1,5 @@
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mitii-dev/Mitii/main/apps/vscode/media/mitii-full-logo-dark.png" />
-    <img src="https://raw.githubusercontent.com/Mitii-dev/Mitii/main/apps/vscode/media/mitii-full-logo.png" alt=">Mitii.dev_" width="150" />
-  </picture>
-
-
   <strong>Local-first AI coding agent</strong><br />
   Repository-aware context · Controlled execution · Your models
 
